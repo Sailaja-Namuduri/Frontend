@@ -1,0 +1,14 @@
+.menu{
+  list-style-type: none;
+  text-align: right;
+  line-height: 40px;
+  background-color: rgb(219, 219, 224);
+}
+.menu > li{
+  display: inline;
+  margin-right: 15px;
+  letter-spacing: 4px;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
